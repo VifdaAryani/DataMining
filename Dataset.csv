@@ -1,0 +1,11 @@
+Town,Age,Salary,Purchased
+Semarang,49,59000,Yes
+Solo,32,49000,Yes
+Jogja,35,57000,No
+Semarang,43,75000,No
+Solo,45,,Yes
+Jogja,40,70000,No
+Semarang,,65000,No
+Solo,53,69000,Yes
+Jogja,55,78000,No
+Semarang,42,80000,Yes
